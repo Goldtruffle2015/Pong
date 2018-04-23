@@ -1,4 +1,4 @@
-// Project: Pong 
+// Project: Pong (Git Edition)
 // Author: John Yu
 // Created: 2018-04-17
 
